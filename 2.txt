@@ -1,3 +1,4 @@
+Feature changes on 2.txt
 second update
 local repo -commited
 staged area - not committed
