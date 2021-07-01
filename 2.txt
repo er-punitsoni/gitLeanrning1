@@ -1,2 +1,4 @@
 second update
 local repo -commited
+staged area - not committed
+working dir -not staged
