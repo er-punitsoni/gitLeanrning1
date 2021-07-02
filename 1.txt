@@ -1,6 +1,1 @@
-Feature changes
-Master1 
-new update -staged
-new update - working dir
-updated one
-second update
+Commit 1 -changes
