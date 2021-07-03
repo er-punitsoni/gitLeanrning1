@@ -1,1 +1,1 @@
-Conflict merge - master -commit 2
+rebase - master changes
