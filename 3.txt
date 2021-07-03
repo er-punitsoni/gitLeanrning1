@@ -1,2 +1,1 @@
-local commit 1
-local commit 2
+rebase - Remote changes
