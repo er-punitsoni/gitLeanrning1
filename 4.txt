@@ -1,1 +1,2 @@
-new file created
+remote commit1
+remote commit2
