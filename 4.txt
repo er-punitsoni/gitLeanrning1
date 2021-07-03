@@ -1,2 +1,2 @@
-remote commit1
+new remote commit1
 remote commit2
